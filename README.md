@@ -1,5 +1,12 @@
 # Claude Code 2.1.88 逆向重建版
 
+<div align="center">
+  <a href="https://github.com/jay6697117/claude-copy-code">
+    <img src="assets/github_star_girl.png" alt="⭐ 求星 ⭐" width="400">
+  </a>
+  <p><b>如果这个项目对你有帮助，千万不可错过点个 Star ⭐️ 支持一下呀！你的 Star 是我持续更新的动力！</b></p>
+</div>
+
 这是一个从 `cli.js.map` 逆向恢复出来，并重新整理为标准 npm 项目的 Claude Code 2.1.88 工程。当前已可以安装依赖、完成构建并启动 CLI 基础入口。
 
 ## 项目概述
